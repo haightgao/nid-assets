@@ -35,3 +35,7 @@
 .post-list-layout-icon.flow:before {
   content: '\e900';
 }
+
+.post-list-layout-icon.flow-minimal:before {
+  content: '\e902';
+}

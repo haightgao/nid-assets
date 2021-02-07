@@ -13,7 +13,7 @@
 
 .subscription-icon {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'subscription-icons' !important;
+  font-family: 'subscription-icon' !important;
   speak: never;
   font-style: normal;
   font-weight: normal;
